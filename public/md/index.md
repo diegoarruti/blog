@@ -1,68 +1,41 @@
-# Recitales Enteros / Full Concerts
+# Lost Not Forgotten
+## Recitales Enteros / Full Concerts (Solo Audio -  Audio Only)
 
-**MDXpress blog** is a lightweight, no-fuss blogging platform designed for developers and minimalists. It allows you to publish blog posts simply by uploading Markdown (`.md`) files to a folder. No CMS, no database—just clean and direct blogging.
+### **Airbag**
+Airbag @ Estadio River Plate , Bs As, Argentina (01/06/2025)
+https://rumble.com/v709e6o-airbag-estadio-river-plate-23-bs-as-argentina-01062025-recital-entero-solo-.html
 
-## 🚀 Features
+Airbag @ Estadio River Plate, Bs As, Argentina (05/10/2025)
+https://rumble.com/v709azg-airbag-estadio-river-plate-bs-as-argentina-05102025-recital-entero-solo-aud.html
 
-- Write blog posts in Markdown  
-- Automatically renders posts to HTML  
-- Dark mode toggle  
-- Clean and responsive UI  
-- Easy setup and usage  
+Airbag @ Estadio River Plate, Bs As, Argentina (31/05/2025) 
+https://rumble.com/v709ilm-airbag-estadio-river-plate-bs-as-argentina-31052025-recital-entero-solo-aud.html
 
----
-
-## ✍️ How to Use
-
-### 1. **Write Your Blog Post**
-
-Create a new Markdown file inside `public/blogs/`. For example:
-
-```bash
-touch public/blogs/my-first-post.md
-```
-
-### 2. **Add Your Content**
-
-Use standard Markdown to write your post.
-
-```markdown
-# My First Post
-
-Welcome to my blog powered by **mdxpress**!
-
-- Simple  
-- Fast  
-- Minimal  
-```
-
-### 3. **Push Your Changes**
-
-Once you add your `.md` file, just commit and push to your GitHub repository:
-
-```bash
-git add .
-git commit -m "Add my first blog post"
-git push origin main
-```
-
-That's it! Your blog post will be live instantly.
+Airbag @ Movistar Arena, Bs As, Argentina (21/05/2023)
+https://rumble.com/v722eyg-airbag-movistar-arena-bs-as-argentina-21052023-recital-entero-solo-audio.html
 
 ---
 
-## 🌙 Dark Mode
+Divididos @ Movistar Arena, Bs As, Argentina (29/11/2025)
+https://rumble.com/v72er3s-divididos-movistar-arena-bs-as-argentina-29112025-recital-entero-solo-audio.html
 
-A toggle button on the top right corner of the blog allows switching between light and dark modes. The state persists between views for a smoother reading experience.
+Avantasia @ El Teatro Flores, Bs As, Argentina (27/11/2025)
+https://rumble.com/v72c1ky-avantasia-el-teatro-flores-bs-as-argentina-27112025-full-concert-audio-only.html?e9s=src_v1_cbl%2Csrc_v1_upp_a
 
----
+Rata Blanca @ Movistar Arena, Bs As, Argentina (19/11/2025)
+https://rumble.com/v71zew2-rata-blanca-movistar-arena-bs-as-argentina-19112025-recital-entero-solo-aud.html?e9s=src_v1_cbl%2Csrc_v1_upp_a
 
-## 💡 Ideal For
+Hammerfall @ El Teatro Flores, Bs As, Argentina (13/11/2025) 
+https://rumble.com/v71oku8-hammerfall-el-teatro-flores-bs-as-argentina-13112025-full-concert-audio-onl.html?e9s=src_v1_cbl%2Csrc_v1_upp_a
 
-- Developers who love Markdown  
-- Tech bloggers who want full control  
-- Minimalist blogging without CMS overhead  
-- Portfolio blogs, developer notes, and changelogs  
+Vision Divine @ Arena Sur, Bs As, Argentina (07/11/2025) 
+https://rumble.com/v71eey4-vision-divine-arena-sur-bs-as-argentina-07112025-full-concert-audio-only.html?e9s=src_v1_cbl%2Csrc_v1_upp_a
+ 
+Masterplan @ Arena Sur, Bs As, Argentina (07/11/2025)
+https://rumble.com/v71edn6-masterplan-arena-sur-bs-as-argentina-07112025-full-concert-audio-only.html?e9s=src_v1_cbl%2Csrc_v1_upp_a
 
----
+Tigran Hamasyan @ Teatro Coliseo, Bs As, Argentina (14/10/2025) 
+https://rumble.com/v70bmio-tigran-hamasyan-teatro-coliseo-bs-as-argentina-14102025-full-concert-audio-.html?e9s=src_v1_cbl%2Csrc_v1_upp_a
 
-Enjoy blogging with Markdown simplicity ✨
+Pat Metheny @ Teatro Gran Rex, Bs As, Argentina (12/09/2025)
+https://rumble.com/v6z5c7w-pat-metheny-teatro-gran-rex-bs-as-argentina-12092025-full-concert-audio-onl.html
