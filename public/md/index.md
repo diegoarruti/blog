@@ -1,7 +1,6 @@
 # Lost Not Forgotten
 ## Recitales Enteros / Full Concerts (Solo Audio -  Audio Only)
 
-### **Airbag**
 Airbag @ Estadio River Plate , Bs As, Argentina (01/06/2025)
 https://rumble.com/v709e6o-airbag-estadio-river-plate-23-bs-as-argentina-01062025-recital-entero-solo-.html
 
