@@ -42,7 +42,7 @@
 
 [Sonata Arctica @ El Teatro Flores, Bs As, Argentina (04/05/2025)](https://rumble.com/v72vshq-sonata-arctica-el-teatro-flores-bs-as-argentina-04052025.html)
 
-[(Beat @ Movistar Arena, Bs As, Argentina (02/05/2025)](https://rumble.com/v72vs98-beat-movistar-arena-bs-as-argentina-02052025.html)
+[Beat @ Movistar Arena, Bs As, Argentina (02/05/2025)](https://rumble.com/v72vs98-beat-movistar-arena-bs-as-argentina-02052025.html)
 
 [Opeth @ Teatro Gran Rivadavia, Bs As, Argentina (27/04/2025)](https://rumble.com/v72vsec-opeth-teatro-gran-rivadavia-bs-as-argentina-27042025.html)
 
