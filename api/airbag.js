@@ -4,7 +4,7 @@ import { marked } from 'marked';
 
 export default function handler(req, res) {
     const mdPath = path.join(process.cwd(), 'public', 'md', 'airbag.md');
-    const templatePath = path.join(process.cwd(), 'public', 'views', 'airbag.html');
+    const templatePath = path.join(process.cwd(), 'public', 'views', 'recitales_airbag.html');
 
     const md = fs.readFileSync(mdPath, 'utf-8');
     const template = fs.readFileSync(templatePath, 'utf-8');
@@ -15,4 +15,5 @@ export default function handler(req, res) {
 
     res.setHeader('Content-Type', 'text/html');
     res.status(200).send(html);
+
 }
